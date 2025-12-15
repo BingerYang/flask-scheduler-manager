@@ -1,0 +1,4 @@
+include README.md
+include requirements.txt
+recursive-include flask_scheduler_manager *.py
+recursive-include example *.py
